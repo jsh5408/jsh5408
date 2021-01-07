@@ -6,7 +6,7 @@
 
 <img id="c" src="https://user-images.githubusercontent.com/51473971/103875717-1f3aa700-5116-11eb-909d-80a1eaff456a.png" height="50"/> <img id="c++" src="https://user-images.githubusercontent.com/51473971/103875716-1ea21080-5116-11eb-8082-00e76bcd51aa.png" height="50"/> <img id="htmljscss" src="https://user-images.githubusercontent.com/51473971/103875721-1fd33d80-5116-11eb-8109-33986a1e726f.png" height="50"/> <img id="php" src="https://user-images.githubusercontent.com/51473971/103874036-04ffc980-5114-11eb-93f8-d2bc9df3d829.png" height="50"/>
 
-### Front-End　　　　　　　　　　　　　Back-End
+### Front-End　　　　　　　　　　　　Back-End
 
 <img id="react" src="https://user-images.githubusercontent.com/51473971/103873043-91a98800-5112-11eb-9dda-eebf38a4cbe3.png" height="50"/> <img id="typescript" src="https://user-images.githubusercontent.com/51473971/103876356-e18a4e00-5116-11eb-8350-de9201861278.png" height="50"/> <img id="typescript" src="https://user-images.githubusercontent.com/51473971/103889970-a4c85200-512a-11eb-82ec-cc4ef7b85435.png" height="50"/>　　　　　　<img id="nodejs" src="https://user-images.githubusercontent.com/51473971/103874027-03ce9c80-5114-11eb-8e29-51cb3b2794e8.png" height="50"/> <img id="express" src="https://user-images.githubusercontent.com/51473971/103876670-4a71c600-5117-11eb-98f8-c0ac5171e2d9.png" height="50"/>
 
