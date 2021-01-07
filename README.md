@@ -10,7 +10,7 @@
 
 <img id="react" src="https://user-images.githubusercontent.com/51473971/103873043-91a98800-5112-11eb-9dda-eebf38a4cbe3.png" height="70"/> <img id="typescript" src="https://user-images.githubusercontent.com/51473971/103876356-e18a4e00-5116-11eb-8350-de9201861278.png" height="70"/> <img id="typescript" src="https://user-images.githubusercontent.com/51473971/103889970-a4c85200-512a-11eb-82ec-cc4ef7b85435.png" height="70"/>　　　　　　<img id="nodejs" src="https://user-images.githubusercontent.com/51473971/103874027-03ce9c80-5114-11eb-8e29-51cb3b2794e8.png" height="70"/> <img id="express" src="https://user-images.githubusercontent.com/51473971/103876670-4a71c600-5117-11eb-98f8-c0ac5171e2d9.png" height="70"/>
 
-### Database　　　　　　　　　　　　　　　　　　　　　　　Etc
+### Database　　　　　　　　　　　　　　　　　　　　　　　　　　Etc
 
 <img id="mysql" src="https://user-images.githubusercontent.com/51473971/103874024-029d6f80-5114-11eb-8a7f-d196b32d26c4.png" height="70"/> <img id="mongodb" src="https://user-images.githubusercontent.com/51473971/103874034-04ffc980-5114-11eb-9b7e-5b78f920e8a8.png" height="70"/> <img id="postgresql" src="https://user-images.githubusercontent.com/51473971/103876676-4ba2f300-5117-11eb-8e7f-81baefe06749.png" height="70"/>　　　<img id="mysql" src="https://user-images.githubusercontent.com/51473971/103889582-020fd380-512a-11eb-9007-6b4d24f82961.png" height="70"/>
 
