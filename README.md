@@ -30,7 +30,7 @@
 <img id="project1" src="https://user-images.githubusercontent.com/51473971/103886880-83b13280-5125-11eb-99e4-763f2054edfe.png" width="30%"/> <img id="project1" src="https://user-images.githubusercontent.com/51473971/103886881-83b13280-5125-11eb-8ed3-183a900e3e7c.png" width="30%"/>
 
 
-### 💪 [건강관리 프로그램](https://github.com/jsh5408/calorie_counter)
+### 💪 [건강관리 프로그램](https://github.com/jsh5408/Health_care_program)
 - 2019년 1학기(2019.03 ~ 2019.06) 2인 1조 프로젝트
 - 사용자에게 적절한 운동이나 음식을 추천해주고, 체중, 권장섭취량, 칼로리 등을 계산해주는 건강관리 프로그램
 - PHP, JavaScript, MySQL, Apache
