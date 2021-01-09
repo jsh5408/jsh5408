@@ -15,7 +15,7 @@
 <img id="mysql" src="https://user-images.githubusercontent.com/51473971/103874024-029d6f80-5114-11eb-8a7f-d196b32d26c4.png" height="50"/> <img id="mongodb" src="https://user-images.githubusercontent.com/51473971/103874034-04ffc980-5114-11eb-9b7e-5b78f920e8a8.png" height="50"/> <img id="postgresql" src="https://user-images.githubusercontent.com/51473971/103876676-4ba2f300-5117-11eb-8e7f-81baefe06749.png" height="50"/>　　　<img id="mysql" src="https://user-images.githubusercontent.com/51473971/103889582-020fd380-512a-11eb-9007-6b4d24f82961.png" height="50"/>
 
 ### 🌱 I’m currently learning ...
-<img id="python" src="https://user-images.githubusercontent.com/51473971/103875710-1e097a00-5116-11eb-958a-e3739ce503c0.png" height="50"/> <img id="mysql" src="https://user-images.githubusercontent.com/51473971/103889866-721e5980-512a-11eb-8f12-677825af74b7.png" height="50"/> <img id="react" src="https://user-images.githubusercontent.com/51473971/103873043-91a98800-5112-11eb-9dda-eebf38a4cbe3.png" height="50"/>
+<img id="python" src="https://user-images.githubusercontent.com/51473971/103875710-1e097a00-5116-11eb-958a-e3739ce503c0.png" height="50"/> <img id="mysql" src="https://user-images.githubusercontent.com/51473971/103889866-721e5980-512a-11eb-8f12-677825af74b7.png" height="50"/>
 
 <br/>
 
