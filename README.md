@@ -22,7 +22,7 @@
 ## 🗂 Project | 프로젝트
 ### 🎮 [요리조리 심부름 투어](https://github.com/jsh5408/Yorijori_errand_tour)
 - 2017년 2학기(2017.09 ~ 2017.12) 4인 1조 프로젝트
-- 엄마의 심부름을 하기 위해 장애물을 피하고, 여러 조건을 달성하여 재료를 모두 구하는 게임
+- 엄마의 심부름을 하기 위해 장애물을 피하고, 여러 조건을 달성하여 음식 재료를 모두 구하는 게임
 - C 언어, Console Game
 
 <img id="project1" src="https://user-images.githubusercontent.com/51473971/103886876-82800580-5125-11eb-9f99-d21b967b3919.png" width="30%"/> <img id="project1" src="https://user-images.githubusercontent.com/51473971/103886879-83189c00-5125-11eb-96a3-e349aa4b3197.png" width="30%"/>
