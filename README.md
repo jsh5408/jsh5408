@@ -19,7 +19,7 @@
 
 <br/>
 
-## 🗂 Project | 프로젝트
+## 🗂 Major Project | 주요 프로젝트
 ### 🎮 [요리조리 심부름 투어](https://github.com/jsh5408/Yorijori_errand_tour)
 - 2017년 2학기(2017.09 ~ 2017.12) 4인 1조 프로젝트
 - 엄마의 심부름을 하기 위해 장애물을 피하고, 여러 조건을 달성하여 음식 재료를 모두 구하는 게임
@@ -46,9 +46,14 @@
 <img id="project2_food" src="https://user-images.githubusercontent.com/51473971/103886228-88c1b200-5124-11eb-9209-51c7d9c51e5f.PNG" width="30%"/> <img id="project2_food" src="https://user-images.githubusercontent.com/51473971/103886233-8b240c00-5124-11eb-9301-f220d1fbcc65.PNG" width="30%"/> <img id="project2_food" src="https://user-images.githubusercontent.com/51473971/103886236-8cedcf80-5124-11eb-99b4-4de1aad7424e.PNG" width="30%"/>
 
 
-### 📑 [CRUD](https://github.com/jsh5408) - editing...
+### 📰 CRUD
 - 2020년 2학기(2020.09 ~ 2020.12) 인턴십 개인 프로젝트
 - React, Typescript, Next.js, Express.js, Node.js, PostgreSQL
+
+
+### 📑 [게시판](https://github.com/jsh5408) - editing...
+- 2021.03 ~
+- React, Next.js, Node.js
 
 <br/>
 
@@ -59,8 +64,10 @@
 <br/>
 <br/>
 
+<!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jsh5408)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsh5408&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--
 **jsh5408/jsh5408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
