@@ -46,7 +46,7 @@
 <img id="project2_food" src="https://user-images.githubusercontent.com/51473971/103886228-88c1b200-5124-11eb-9209-51c7d9c51e5f.PNG" width="30%"/> <img id="project2_food" src="https://user-images.githubusercontent.com/51473971/103886233-8b240c00-5124-11eb-9301-f220d1fbcc65.PNG" width="30%"/> <img id="project2_food" src="https://user-images.githubusercontent.com/51473971/103886236-8cedcf80-5124-11eb-99b4-4de1aad7424e.PNG" width="30%"/>
 
 
-### 📰 CRUD
+### 📰 교육용 콘텐츠 웹
 - 2020년 2학기(2020.09 ~ 2020.12) 인턴십 개인 프로젝트
 - React, Typescript, Next.js, Express.js, Node.js, PostgreSQL
 
